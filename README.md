@@ -28,7 +28,7 @@ MyTANITA nie ma znanego publicznego endpointu `export-csv` z zakresem dat, więc
 .\build_debug.bat
 ```
 
-Skrypt preferuje Javę dołączoną do Android Studio:
+Skrypt preferuje Jawę dołączoną do Android Studio:
 
 ```text
 C:\Program Files\Android Studio\jbr
@@ -37,7 +37,7 @@ C:\Program Files\Android Studio\jbr
 APK:
 
 ```text
-app\build\outputs\apk\debug\app-debug.apk
+app\build\outputs\apk\debug\TanitaGarminSync-debug.apk
 ```
 
 Instalacja ADB:
